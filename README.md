@@ -222,7 +222,7 @@ Para este proyecto se uso la version 3.3.3 de SpringBoot.
 
 Aca podras ver el video del proyecto ya implementado y usando SWAGGER.
 
-youtube https://youtu.be/0lHOX6BPFoc
+youtube  https://youtu.be/7Gl556EQ--Y 
 
 ![ProyectoContacto](https://i.pinimg.com/originals/62/96/32/6296325b333a572db7eade8b0f86aa58.gif)
 
